@@ -81,10 +81,7 @@ export default function Weather() {
           <div class="weather-forecast" id="forecast"></div>
         </div>
         <small>
-          <a
-            href="https://github.com/prokopechkok/Vanilla_Weather_App_Plus"
-            id="footer"
-          >
+          <a href="https://github.com/prokopechkok/weather-react" id="footer">
             Open-source code
           </a>
           by Khrystyna Prokopechko
